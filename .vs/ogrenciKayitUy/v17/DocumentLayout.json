@@ -1,62 +1,48 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\",
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Documents\\GitHub\\ogrenciKayitUygulamasi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrencikayituy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|solutionrelative:ogrencikayituy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|c:\\users\\hp\\downloads\\downloads\\ogrencikayituy\\ogrencikayituy\\frmlistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|solutionrelative:ogrencikayituy\\frmlistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmListele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrencikayituy\\frmlistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|solutionrelative:ogrencikayituy\\frmlistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrencikayituy\\frmlistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrencikayituy\\frmkayitsil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|solutionrelative:ogrencikayituy\\frmkayitsil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmKayitSil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrencikayituy\\frmkayitsil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|solutionrelative:ogrencikayituy\\frmkayitsil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrencikayituy\\frmkayitsil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrencikayituy\\frmkayitbul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|solutionrelative:ogrencikayituy\\frmkayitbul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmKayitBul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrencikayituy\\frmkayitbul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|solutionrelative:ogrencikayituy\\frmkayitbul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrencikayituy\\frmkayitbul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrencikayituy\\frmenyuksekort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|solutionrelative:ogrencikayituy\\frmenyuksekort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmEnYuksekOrt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrencikayituy\\frmenyuksekort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|solutionrelative:ogrencikayituy\\frmenyuksekort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrencikayituy\\frmenyuksekort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrencikayituy\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|solutionrelative:ogrencikayituy\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrencikayituy\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|solutionrelative:ogrencikayituy\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrencikayituy\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrencikayituy\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|solutionrelative:ogrencikayituy\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrencikayituy\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|solutionrelative:ogrencikayituy\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrencikayituy\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrencikayituy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C13F48C4-41B0-42B1-A0A6-0323A6B00AAB}|ogrenciKayitUy\\ogrenciKayitUy.csproj|solutionrelative:ogrencikayituy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrencikayituy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -81,20 +67,18 @@
               "DocumentIndex": 1,
               "Title": "FrmListele.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmListele.cs",
-              "RelativeDocumentMoniker": "ogrenciKayitUy\\FrmListele.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmListele.cs",
               "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmListele.cs",
-              "RelativeToolTip": "ogrenciKayitUy\\FrmListele.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAowBkAAAAMAAAA",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmListele.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T17:16:40.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T17:16:40.755Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "FrmListele.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmListele.cs",
-              "RelativeDocumentMoniker": "ogrenciKayitUy\\FrmListele.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmListele.cs",
               "ToolTip": "C:\\Users\\ab154364\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\ogrenciKayitUy\\FrmListele.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\ab154364\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\ogrenciKayitUy\\FrmListele.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
@@ -105,11 +89,10 @@
               "DocumentIndex": 3,
               "Title": "FrmKayitSil.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmKayitSil.cs",
-              "RelativeDocumentMoniker": "ogrenciKayitUy\\FrmKayitSil.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmKayitSil.cs",
               "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmKayitSil.cs",
-              "RelativeToolTip": "ogrenciKayitUy\\FrmKayitSil.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmKayitSil.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T17:16:40.911Z"
             },
             {
@@ -117,7 +100,7 @@
               "DocumentIndex": 4,
               "Title": "FrmKayitSil.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmKayitSil.cs",
-              "RelativeDocumentMoniker": "ogrenciKayitUy\\FrmKayitSil.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmKayitSil.cs",
               "ToolTip": "C:\\Users\\ab154364\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\ogrenciKayitUy\\FrmKayitSil.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\ab154364\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\ogrenciKayitUy\\FrmKayitSil.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
@@ -128,11 +111,10 @@
               "DocumentIndex": 5,
               "Title": "FrmKayitBul.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmKayitBul.cs",
-              "RelativeDocumentMoniker": "ogrenciKayitUy\\FrmKayitBul.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmKayitBul.cs",
               "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmKayitBul.cs",
-              "RelativeToolTip": "ogrenciKayitUy\\FrmKayitBul.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmKayitBul.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T17:16:40.914Z"
             },
             {
@@ -140,7 +122,7 @@
               "DocumentIndex": 6,
               "Title": "FrmKayitBul.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmKayitBul.cs",
-              "RelativeDocumentMoniker": "ogrenciKayitUy\\FrmKayitBul.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmKayitBul.cs",
               "ToolTip": "C:\\Users\\ab154364\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\ogrenciKayitUy\\FrmKayitBul.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\ab154364\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\ogrenciKayitUy\\FrmKayitBul.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
@@ -151,11 +133,10 @@
               "DocumentIndex": 7,
               "Title": "FrmEnYuksekOrt.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmEnYuksekOrt.cs",
-              "RelativeDocumentMoniker": "ogrenciKayitUy\\FrmEnYuksekOrt.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmEnYuksekOrt.cs",
               "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmEnYuksekOrt.cs",
-              "RelativeToolTip": "ogrenciKayitUy\\FrmEnYuksekOrt.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmEnYuksekOrt.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T17:16:40.916Z"
             },
             {
@@ -163,20 +144,18 @@
               "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form1.cs",
-              "RelativeDocumentMoniker": "ogrenciKayitUy\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form1.cs",
               "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form1.cs",
-              "RelativeToolTip": "ogrenciKayitUy\\Form1.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAowBkAAAAMAAAA",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T17:16:40.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T17:16:40.92Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "FrmEnYuksekOrt.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmEnYuksekOrt.cs",
-              "RelativeDocumentMoniker": "ogrenciKayitUy\\FrmEnYuksekOrt.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\FrmEnYuksekOrt.cs",
               "ToolTip": "C:\\Users\\ab154364\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\ogrenciKayitUy\\FrmEnYuksekOrt.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\ab154364\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\ogrenciKayitUy\\FrmEnYuksekOrt.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
@@ -187,11 +166,10 @@
               "DocumentIndex": 9,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form3.cs",
-              "RelativeDocumentMoniker": "ogrenciKayitUy\\Form3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form3.cs",
               "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form3.cs",
-              "RelativeToolTip": "ogrenciKayitUy\\Form3.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T17:16:40.917Z"
             },
             {
@@ -199,7 +177,7 @@
               "DocumentIndex": 10,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form3.cs",
-              "RelativeDocumentMoniker": "ogrenciKayitUy\\Form3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form3.cs",
               "ToolTip": "C:\\Users\\ab154364\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\ogrenciKayitUy\\Form3.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\ab154364\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\ogrenciKayitUy\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
@@ -210,11 +188,10 @@
               "DocumentIndex": 11,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form2.cs",
-              "RelativeDocumentMoniker": "ogrenciKayitUy\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form2.cs",
               "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form2.cs",
-              "RelativeToolTip": "ogrenciKayitUy\\Form2.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAADQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T17:16:40.918Z"
             },
             {
@@ -222,7 +199,7 @@
               "DocumentIndex": 12,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form2.cs",
-              "RelativeDocumentMoniker": "ogrenciKayitUy\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form2.cs",
               "ToolTip": "C:\\Users\\ab154364\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\ogrenciKayitUy\\Form2.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\..\\ab154364\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\ogrenciKayitUy\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
@@ -233,12 +210,11 @@
               "DocumentIndex": 13,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form1.cs",
-              "RelativeDocumentMoniker": "ogrenciKayitUy\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form1.cs",
               "ToolTip": "C:\\Users\\Hp\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form1.cs [Design]",
-              "RelativeToolTip": "ogrenciKayitUy\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Downloads\\ogrenciKayitUy\\ogrenciKayitUy\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T17:16:40.921Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-30T17:16:40.921Z"
             }
           ]
         }
